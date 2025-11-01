@@ -1,3 +1,7 @@
+## 7.7.2
+
+- Dependency upgrades
+
 ## 7.5.1
 
 - Dependency upgrades
